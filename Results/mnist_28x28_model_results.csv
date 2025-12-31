@@ -1,0 +1,7 @@
+Model,Accuracy
+SVM,0.9677
+ANN (MLP),0.9616
+Random Forest,0.953
+KNN,0.948
+Decision Tree,0.8601
+Naive Bayes,0.7119
