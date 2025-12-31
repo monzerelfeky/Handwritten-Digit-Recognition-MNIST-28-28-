@@ -22,6 +22,7 @@ Multiple classical machine learning models are trained, evaluated, and compared 
 ├── mnist_train.csv                   # Training dataset
 ├── mnist_test.csv                    # Test dataset
 ├── mnist_28x28.py                    # Main training & evaluation script
+├── mnist_28x28.ipynb                 # Main training & evaluation notebook
 ├── mnist_28x28_model_results.csv     # Model accuracy comparison
 ├── mnist_28x28_confusion_matrix.png  # Confusion matrix of best model
 └── README.md
